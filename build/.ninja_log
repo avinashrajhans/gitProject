@@ -1,3 +1,5 @@
 # ninja log v6
 11	294	7628755310270514	CMakeFiles/App.dir/main.cpp.obj	cdc0447977ec20d
 296	382	7628755313110436	App.exe	afe09db12e3e3b61
+83	827	7629573063547205	CMakeFiles/App.dir/main.cpp.obj	cdc0447977ec20d
+827	1241	7629573070990746	App.exe	afe09db12e3e3b61
