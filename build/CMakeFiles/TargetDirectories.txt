@@ -1,3 +1,0 @@
-C:/Users/User/gitProject/build/CMakeFiles/App.dir
-C:/Users/User/gitProject/build/CMakeFiles/edit_cache.dir
-C:/Users/User/gitProject/build/CMakeFiles/rebuild_cache.dir

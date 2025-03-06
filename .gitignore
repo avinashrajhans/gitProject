@@ -1,4 +1,1 @@
 build/
-*.exe
-
-build/CMakeFiles/App.dir/main.cpp.obj
